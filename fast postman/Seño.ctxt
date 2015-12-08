@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Se\u00F1o()
+comment0.text=\r\n\ Constructor\ de\ Arbok.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Actua\ del\ enemigo\ se\u00F1o\r\n
+comment2.params=
+comment2.target=void\ movimiento()
+comment2.text=\r\n\ M\u00E9todo\ para\ animar\ el\ movimiento\ de\ se\u00F1o\r\n
+numComments=3

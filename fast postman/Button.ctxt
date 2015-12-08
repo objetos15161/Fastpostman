@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=unNum
+comment0.target=Button(int)
+comment0.text=\r\n\ Constructor\ de\ Button.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Actua\ de\ Button\r\n
+comment2.params=
+comment2.target=boolean\ getSedioclick()
+comment2.text=\r\n\ M\u00E9todo\ para\ regresar\ el\ valor\ si\ se\ a\ dado\ un\ click\ en\ algun\ boton\r\n\ @return\ sedioClick;\r\n
+comment3.params=unClick
+comment3.target=void\ setSedioclick(boolean)
+comment3.text=\r\n\ M\u00E9todo\ para\ cambiar\ el\ valor\ del\ click\ en\ los\ botones\r\n\ @param\ boolean\ unClick\r\n
+numComments=4

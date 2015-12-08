@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pajaro()
+comment0.text=\r\n\ Constructor\ de\ Pajaro.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\nActua\ de\ pajaro
+comment2.params=
+comment2.target=void\ movimiento()
+comment2.text=\r\n\ M\u00E9todo\ para\ animar\ al\ enemigo\r\n
+comment3.params=
+comment3.target=void\ atacaJugador()
+comment3.text=\r\n\ M\u00E9todo\ para\ atacar\ del\ enemigo\ \r\n
+numComments=4

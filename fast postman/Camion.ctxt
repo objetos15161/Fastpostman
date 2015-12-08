@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Camion()
+comment0.text=\r\n\ Constructor\ de\ camion.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Actua\ de\ Camion\r\n
+comment2.params=
+comment2.target=void\ tocoCamion()
+comment2.text=\r\n\ M\u00E9todo\ para\ checar\ si\ alguno\ de\ los\ jugadores\ toco\ la\ llave\r\n
+numComments=3

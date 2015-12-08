@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Correo()
+comment0.text=\r\n\ Constructor\ de\ correo.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Actua\ de\ Star\r\n
+comment2.params=
+comment2.target=void\ tocoCorreo()
+comment2.text=\r\nM\u00E9todo\ donde\ verifica\ si\ lo\ toco\ jack
+comment3.params=
+comment3.target=void\ movimiento()
+comment3.text=\r\n\ M\u00E9todo\ donde\ el\ correo\ se\ mueven\ en\ el\ mundo\r\n
+numComments=4

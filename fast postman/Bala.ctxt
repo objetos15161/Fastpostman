@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=unTipo\ unaDir
+comment0.target=Bala(int,\ boolean)
+comment0.text=\r\n\ Constructor\ de\ Bala.\r\n
+comment1.params=unaDir
+comment1.target=void\ setBanDir(boolean)
+comment1.text=\r\n\ M\u00E9todo\ donde\ pone\ la\ bandera\ de\ direccion\ en\ true\ o\ false\r\n\ @param\ true\ o\ false\r\n
+comment2.params=
+comment2.target=boolean\ getBanDir()
+comment2.text=\r\n\ M\u00E9todo\ donde\ donde\ regresa\ la\ bandera\ de\ direcci\u00F3n\r\n\ @return\ true\ o\ false\r\n
+comment3.params=
+comment3.target=void\ quienFue()
+comment3.text=\r\n\ Metodo\ donde\ se\ switchea\ quien\ de\ todos\ disparo\r\n
+comment4.params=
+comment4.target=void\ mueveBala()
+comment4.text=\r\n\ M\u00E9todo\ donde\ se\ mueve\ la\ bala\ de\ cada\ animal\ del\ bosque\r\n
+comment5.params=
+comment5.target=void\ aquienToque()
+comment5.text=\r\n\ M\u00E9todo\ donde\ interactua\ la\ bala\ con\ cada\ animal\ del\ bosque\r\n
+comment6.params=
+comment6.target=void\ aquienElimino()
+comment6.text=\r\n\ M\u00E9todo\ donde\ se\ verifica\ a\ quien\ toco\ la\ bala\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Actua\ de\ Bala\r\n\ \r\n
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JackCartero()
+comment0.text=\r\n\ Constructor\ de\ jack.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\nActua\ de\ jack
+comment2.params=
+comment2.target=void\ movimiento()
+comment2.text=\r\n\ M\u00E9todo\ para\ animar\ el\ movimiento\ del\ jugador\r\n
+numComments=3
